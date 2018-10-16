@@ -1,0 +1,12 @@
+{
+  "generator-mocha": {
+    "ui": "tdd",
+    "rjs": false
+  },
+  "generator-teste": {
+    "promptValues": {
+      "username": "rodrigo",
+      "email": "Rodrigo Ribeiro"
+    }
+  }
+}
